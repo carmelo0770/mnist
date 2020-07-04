@@ -1,0 +1,2 @@
+# mnist
+cnn mnist colab
